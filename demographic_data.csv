@@ -1,0 +1,1001 @@
+student_id,age,gender,ethnicity,income_level,program
+1,29,Female,Non-Hispanic White,Low,Science
+2,29,Male,Asian,Medium,Business
+3,29,Non-Binary,Non-Hispanic White,High,Science
+4,24,Female,Non-Hispanic Black,Medium,Arts
+5,27,Non-Binary,Asian,Medium,Business
+6,28,Non-Binary,Asian,High,Arts
+7,25,Male,Non-Hispanic White,Medium,Engineering
+8,23,Male,Other,High,Arts
+9,29,Male,Other,High,Arts
+10,27,Non-Binary,Asian,Medium,Arts
+11,26,Non-Binary,Non-Hispanic White,High,Arts
+12,24,Non-Binary,Other,Medium,Science
+13,27,Male,Non-Hispanic White,High,Business
+14,22,Female,Non-Hispanic White,Low,Science
+15,25,Non-Binary,Asian,High,Science
+16,19,Non-Binary,Asian,High,Science
+17,24,Non-Binary,Hispanic,Medium,Arts
+18,21,Female,Other,High,Science
+19,26,Non-Binary,Other,Low,Business
+20,29,Female,Other,Low,Science
+21,18,Non-Binary,Non-Hispanic Black,High,Engineering
+22,24,Female,Non-Hispanic White,High,Arts
+23,23,Non-Binary,Asian,Low,Engineering
+24,25,Male,Other,Medium,Business
+25,22,Male,Hispanic,Low,Business
+26,18,Male,Other,Low,Business
+27,18,Male,Non-Hispanic White,High,Business
+28,26,Non-Binary,Non-Hispanic White,High,Science
+29,27,Male,Asian,Low,Arts
+30,23,Female,Non-Hispanic Black,Medium,Business
+31,27,Male,Asian,Low,Engineering
+32,22,Male,Other,Low,Business
+33,18,Male,Hispanic,Medium,Arts
+34,23,Non-Binary,Asian,Low,Engineering
+35,23,Male,Non-Hispanic Black,Low,Engineering
+36,20,Female,Asian,High,Engineering
+37,25,Male,Non-Hispanic White,Medium,Science
+38,18,Male,Other,High,Business
+39,18,Male,Other,High,Science
+40,23,Female,Other,Medium,Engineering
+41,27,Male,Other,Medium,Science
+42,18,Female,Other,Low,Science
+43,23,Female,Other,High,Science
+44,18,Male,Hispanic,Medium,Business
+45,23,Female,Non-Hispanic Black,High,Engineering
+46,20,Non-Binary,Other,High,Engineering
+47,25,Male,Non-Hispanic Black,Medium,Business
+48,23,Male,Other,Low,Science
+49,28,Female,Asian,High,Science
+50,18,Female,Other,Medium,Arts
+51,22,Male,Non-Hispanic White,Low,Arts
+52,25,Non-Binary,Hispanic,High,Arts
+53,20,Female,Asian,Medium,Business
+54,29,Female,Asian,High,Engineering
+55,23,Non-Binary,Non-Hispanic White,Medium,Arts
+56,22,Non-Binary,Other,Medium,Engineering
+57,23,Male,Hispanic,High,Engineering
+58,27,Non-Binary,Asian,High,Engineering
+59,18,Male,Hispanic,Medium,Business
+60,24,Non-Binary,Asian,Low,Business
+61,26,Female,Other,High,Business
+62,19,Male,Asian,Medium,Business
+63,27,Male,Asian,Medium,Arts
+64,22,Male,Non-Hispanic Black,Low,Science
+65,27,Non-Binary,Other,Low,Science
+66,21,Female,Non-Hispanic White,Low,Science
+67,23,Male,Non-Hispanic White,High,Arts
+68,23,Male,Other,Medium,Science
+69,28,Male,Non-Hispanic White,Medium,Arts
+70,19,Male,Other,Medium,Arts
+71,19,Female,Non-Hispanic White,Low,Arts
+72,21,Non-Binary,Non-Hispanic Black,Medium,Science
+73,18,Female,Non-Hispanic White,High,Engineering
+74,26,Male,Asian,Low,Science
+75,24,Female,Other,Low,Science
+76,29,Male,Hispanic,Low,Business
+77,24,Non-Binary,Hispanic,Low,Arts
+78,20,Non-Binary,Other,High,Engineering
+79,28,Non-Binary,Non-Hispanic Black,Medium,Business
+80,29,Male,Non-Hispanic White,High,Engineering
+81,20,Female,Non-Hispanic Black,Medium,Engineering
+82,18,Non-Binary,Hispanic,High,Arts
+83,20,Male,Other,Low,Science
+84,20,Male,Other,Low,Arts
+85,21,Female,Non-Hispanic Black,High,Arts
+86,21,Non-Binary,Non-Hispanic Black,High,Business
+87,20,Male,Non-Hispanic White,Medium,Arts
+88,27,Female,Asian,High,Science
+89,29,Non-Binary,Asian,High,Engineering
+90,25,Female,Non-Hispanic White,Medium,Arts
+91,25,Female,Asian,Medium,Engineering
+92,18,Male,Hispanic,Medium,Arts
+93,24,Male,Asian,High,Engineering
+94,28,Male,Non-Hispanic White,Medium,Arts
+95,19,Female,Asian,Low,Business
+96,18,Male,Other,Low,Engineering
+97,20,Female,Non-Hispanic Black,Low,Arts
+98,21,Female,Hispanic,High,Arts
+99,23,Male,Other,Low,Business
+100,27,Non-Binary,Other,High,Business
+101,22,Non-Binary,Non-Hispanic White,High,Business
+102,21,Non-Binary,Non-Hispanic Black,Low,Engineering
+103,25,Female,Non-Hispanic Black,Medium,Engineering
+104,28,Female,Hispanic,High,Business
+105,29,Female,Non-Hispanic White,Low,Science
+106,21,Male,Hispanic,High,Science
+107,27,Female,Asian,Medium,Arts
+108,29,Male,Other,Medium,Science
+109,19,Male,Hispanic,Low,Arts
+110,20,Non-Binary,Other,High,Engineering
+111,23,Non-Binary,Non-Hispanic White,High,Engineering
+112,25,Non-Binary,Asian,High,Science
+113,25,Male,Non-Hispanic White,High,Engineering
+114,28,Male,Asian,Low,Business
+115,26,Male,Asian,Medium,Business
+116,24,Female,Other,Low,Science
+117,19,Male,Non-Hispanic White,High,Science
+118,25,Non-Binary,Non-Hispanic White,High,Arts
+119,24,Non-Binary,Hispanic,Medium,Engineering
+120,25,Male,Non-Hispanic White,High,Arts
+121,29,Male,Hispanic,Low,Arts
+122,20,Non-Binary,Non-Hispanic Black,Low,Business
+123,24,Male,Non-Hispanic Black,Medium,Business
+124,27,Non-Binary,Non-Hispanic Black,Low,Business
+125,26,Female,Non-Hispanic White,Low,Business
+126,20,Non-Binary,Non-Hispanic White,Low,Arts
+127,27,Female,Hispanic,Low,Business
+128,23,Male,Asian,High,Engineering
+129,19,Male,Hispanic,Low,Business
+130,19,Female,Non-Hispanic Black,Medium,Business
+131,22,Male,Hispanic,Medium,Business
+132,22,Female,Asian,Low,Science
+133,24,Male,Non-Hispanic White,Medium,Engineering
+134,29,Non-Binary,Hispanic,Low,Engineering
+135,19,Male,Non-Hispanic Black,Medium,Arts
+136,28,Non-Binary,Non-Hispanic Black,Medium,Arts
+137,24,Non-Binary,Non-Hispanic White,Low,Business
+138,22,Female,Hispanic,Low,Science
+139,23,Male,Asian,High,Arts
+140,25,Female,Non-Hispanic White,Low,Arts
+141,27,Male,Hispanic,Low,Business
+142,29,Non-Binary,Other,High,Business
+143,21,Non-Binary,Non-Hispanic Black,Low,Arts
+144,24,Male,Asian,Low,Arts
+145,23,Male,Asian,High,Engineering
+146,27,Female,Asian,Low,Science
+147,19,Male,Non-Hispanic Black,Low,Engineering
+148,25,Male,Hispanic,High,Arts
+149,27,Male,Non-Hispanic White,High,Engineering
+150,26,Female,Hispanic,Medium,Engineering
+151,22,Male,Non-Hispanic White,Low,Arts
+152,27,Non-Binary,Asian,Medium,Business
+153,21,Female,Hispanic,Medium,Arts
+154,23,Female,Asian,High,Business
+155,25,Non-Binary,Other,Low,Arts
+156,28,Non-Binary,Asian,Low,Arts
+157,20,Non-Binary,Asian,High,Arts
+158,27,Male,Non-Hispanic White,Medium,Science
+159,28,Non-Binary,Other,High,Business
+160,28,Male,Asian,Low,Science
+161,18,Female,Asian,High,Arts
+162,21,Female,Other,Low,Engineering
+163,21,Non-Binary,Other,Medium,Science
+164,18,Male,Hispanic,Low,Business
+165,26,Non-Binary,Non-Hispanic White,Medium,Arts
+166,20,Non-Binary,Other,Medium,Science
+167,22,Male,Other,Low,Engineering
+168,23,Non-Binary,Non-Hispanic Black,Low,Science
+169,25,Female,Other,Medium,Business
+170,23,Non-Binary,Non-Hispanic White,High,Science
+171,20,Male,Asian,Low,Engineering
+172,23,Male,Asian,Medium,Engineering
+173,18,Female,Asian,Medium,Business
+174,21,Male,Asian,High,Engineering
+175,23,Male,Non-Hispanic Black,Low,Arts
+176,24,Female,Other,Medium,Engineering
+177,28,Non-Binary,Asian,High,Arts
+178,28,Female,Hispanic,Medium,Science
+179,27,Non-Binary,Asian,Low,Arts
+180,20,Female,Other,High,Arts
+181,26,Non-Binary,Asian,Medium,Science
+182,29,Female,Non-Hispanic Black,High,Engineering
+183,29,Non-Binary,Non-Hispanic White,Low,Arts
+184,24,Female,Non-Hispanic White,High,Engineering
+185,18,Non-Binary,Other,Low,Science
+186,19,Female,Non-Hispanic White,Medium,Business
+187,18,Male,Non-Hispanic White,Low,Engineering
+188,28,Non-Binary,Hispanic,Medium,Engineering
+189,26,Female,Other,Medium,Business
+190,26,Non-Binary,Other,Low,Business
+191,24,Non-Binary,Non-Hispanic White,Medium,Science
+192,27,Female,Non-Hispanic White,High,Engineering
+193,20,Non-Binary,Non-Hispanic White,Medium,Engineering
+194,22,Female,Non-Hispanic Black,Low,Science
+195,21,Male,Asian,High,Engineering
+196,24,Non-Binary,Non-Hispanic Black,High,Arts
+197,26,Male,Other,Medium,Arts
+198,29,Non-Binary,Hispanic,Medium,Arts
+199,19,Non-Binary,Asian,Low,Engineering
+200,25,Non-Binary,Hispanic,High,Arts
+201,26,Female,Other,Low,Arts
+202,27,Male,Other,Medium,Science
+203,27,Non-Binary,Hispanic,High,Science
+204,26,Female,Hispanic,Low,Business
+205,27,Non-Binary,Hispanic,Low,Business
+206,24,Female,Other,Low,Business
+207,26,Non-Binary,Non-Hispanic White,Low,Business
+208,26,Male,Hispanic,Low,Science
+209,20,Male,Asian,High,Science
+210,21,Non-Binary,Other,Low,Science
+211,19,Female,Non-Hispanic Black,High,Arts
+212,27,Non-Binary,Non-Hispanic Black,Low,Arts
+213,20,Female,Asian,Medium,Business
+214,28,Non-Binary,Non-Hispanic White,Medium,Arts
+215,28,Female,Hispanic,Low,Engineering
+216,22,Male,Other,Medium,Science
+217,22,Non-Binary,Hispanic,High,Business
+218,23,Male,Other,Low,Business
+219,24,Male,Non-Hispanic Black,High,Engineering
+220,24,Non-Binary,Hispanic,Low,Arts
+221,18,Non-Binary,Asian,Medium,Business
+222,19,Female,Non-Hispanic White,High,Arts
+223,29,Female,Asian,Medium,Arts
+224,26,Male,Non-Hispanic White,Medium,Engineering
+225,27,Female,Hispanic,Low,Business
+226,19,Female,Hispanic,High,Arts
+227,23,Non-Binary,Non-Hispanic White,Medium,Arts
+228,28,Female,Non-Hispanic Black,Low,Engineering
+229,28,Male,Other,Low,Engineering
+230,18,Female,Asian,Low,Arts
+231,20,Male,Asian,Medium,Engineering
+232,19,Non-Binary,Asian,Low,Arts
+233,20,Male,Hispanic,High,Business
+234,22,Female,Asian,High,Science
+235,28,Non-Binary,Other,Medium,Engineering
+236,27,Female,Other,High,Science
+237,23,Non-Binary,Non-Hispanic White,Low,Arts
+238,26,Non-Binary,Hispanic,Medium,Arts
+239,29,Female,Other,Low,Arts
+240,28,Female,Non-Hispanic Black,Medium,Science
+241,27,Non-Binary,Hispanic,Medium,Arts
+242,29,Non-Binary,Hispanic,Low,Engineering
+243,29,Female,Other,High,Business
+244,21,Male,Non-Hispanic Black,High,Business
+245,24,Female,Non-Hispanic White,Medium,Engineering
+246,23,Non-Binary,Other,Low,Business
+247,19,Female,Non-Hispanic Black,Low,Science
+248,27,Male,Hispanic,Medium,Arts
+249,28,Female,Non-Hispanic Black,High,Arts
+250,28,Non-Binary,Hispanic,Low,Arts
+251,28,Female,Other,High,Science
+252,25,Non-Binary,Other,High,Science
+253,24,Non-Binary,Asian,Medium,Science
+254,24,Female,Asian,Medium,Engineering
+255,25,Non-Binary,Asian,High,Science
+256,29,Non-Binary,Other,Low,Business
+257,29,Male,Non-Hispanic White,Low,Engineering
+258,28,Male,Other,Medium,Engineering
+259,18,Male,Non-Hispanic Black,High,Engineering
+260,18,Male,Other,Low,Science
+261,25,Non-Binary,Other,Low,Engineering
+262,21,Female,Hispanic,Medium,Science
+263,22,Non-Binary,Hispanic,High,Science
+264,25,Non-Binary,Hispanic,Low,Engineering
+265,22,Non-Binary,Other,Medium,Arts
+266,27,Female,Non-Hispanic White,Low,Arts
+267,21,Male,Non-Hispanic Black,Low,Engineering
+268,29,Non-Binary,Non-Hispanic Black,Low,Arts
+269,23,Non-Binary,Non-Hispanic White,Medium,Business
+270,29,Male,Non-Hispanic White,High,Business
+271,22,Non-Binary,Non-Hispanic Black,Medium,Science
+272,24,Female,Asian,High,Arts
+273,27,Non-Binary,Hispanic,Low,Business
+274,24,Non-Binary,Hispanic,High,Engineering
+275,21,Male,Non-Hispanic Black,Low,Arts
+276,29,Non-Binary,Non-Hispanic White,Low,Business
+277,22,Non-Binary,Asian,Medium,Business
+278,20,Female,Non-Hispanic Black,Low,Engineering
+279,21,Male,Hispanic,Medium,Science
+280,21,Male,Other,High,Engineering
+281,20,Female,Non-Hispanic White,High,Science
+282,27,Non-Binary,Other,Low,Business
+283,22,Male,Non-Hispanic Black,Medium,Science
+284,22,Male,Hispanic,Low,Business
+285,28,Non-Binary,Asian,Medium,Business
+286,24,Non-Binary,Other,Medium,Arts
+287,21,Male,Asian,Medium,Science
+288,21,Non-Binary,Hispanic,High,Science
+289,26,Male,Other,Medium,Science
+290,23,Non-Binary,Asian,High,Engineering
+291,21,Non-Binary,Asian,Medium,Arts
+292,19,Female,Other,High,Arts
+293,23,Non-Binary,Hispanic,High,Arts
+294,19,Female,Asian,High,Engineering
+295,22,Non-Binary,Non-Hispanic Black,Low,Science
+296,23,Male,Other,Medium,Science
+297,21,Male,Non-Hispanic White,Low,Science
+298,20,Non-Binary,Non-Hispanic White,Medium,Arts
+299,24,Non-Binary,Hispanic,Medium,Arts
+300,19,Male,Non-Hispanic Black,Low,Business
+301,28,Non-Binary,Asian,High,Engineering
+302,23,Female,Non-Hispanic White,Medium,Engineering
+303,21,Female,Hispanic,High,Arts
+304,23,Female,Non-Hispanic Black,Low,Business
+305,21,Female,Non-Hispanic Black,High,Science
+306,21,Female,Hispanic,Medium,Arts
+307,21,Non-Binary,Hispanic,Medium,Engineering
+308,26,Non-Binary,Asian,Medium,Engineering
+309,24,Female,Hispanic,Low,Engineering
+310,20,Non-Binary,Asian,Medium,Science
+311,20,Non-Binary,Asian,Low,Engineering
+312,23,Female,Other,High,Science
+313,23,Non-Binary,Non-Hispanic Black,Medium,Science
+314,21,Non-Binary,Non-Hispanic Black,Medium,Science
+315,26,Non-Binary,Non-Hispanic Black,Medium,Arts
+316,21,Female,Other,High,Science
+317,26,Non-Binary,Asian,Medium,Business
+318,21,Male,Asian,Low,Engineering
+319,19,Male,Hispanic,High,Arts
+320,19,Female,Other,High,Engineering
+321,22,Male,Hispanic,High,Science
+322,21,Female,Other,High,Arts
+323,24,Male,Hispanic,High,Business
+324,28,Male,Non-Hispanic White,Low,Science
+325,22,Male,Non-Hispanic Black,High,Engineering
+326,23,Female,Non-Hispanic Black,Medium,Business
+327,27,Female,Asian,High,Science
+328,21,Non-Binary,Non-Hispanic White,High,Business
+329,29,Female,Non-Hispanic Black,High,Science
+330,19,Male,Asian,High,Arts
+331,27,Male,Non-Hispanic White,High,Science
+332,26,Female,Non-Hispanic Black,Low,Arts
+333,27,Female,Hispanic,Low,Science
+334,24,Female,Other,High,Science
+335,21,Non-Binary,Non-Hispanic White,Low,Engineering
+336,20,Male,Asian,Medium,Business
+337,27,Non-Binary,Non-Hispanic White,High,Business
+338,20,Non-Binary,Asian,Medium,Business
+339,26,Male,Non-Hispanic White,Medium,Science
+340,22,Male,Asian,High,Science
+341,20,Female,Non-Hispanic Black,Medium,Science
+342,22,Female,Hispanic,Medium,Arts
+343,19,Non-Binary,Non-Hispanic Black,Medium,Arts
+344,28,Female,Hispanic,High,Engineering
+345,21,Female,Non-Hispanic Black,High,Science
+346,27,Male,Non-Hispanic Black,Medium,Business
+347,19,Male,Non-Hispanic White,High,Business
+348,19,Female,Other,High,Engineering
+349,29,Male,Asian,Medium,Business
+350,25,Female,Asian,High,Engineering
+351,18,Male,Asian,Low,Science
+352,24,Male,Hispanic,High,Business
+353,22,Male,Asian,Low,Science
+354,28,Male,Asian,Medium,Arts
+355,25,Female,Non-Hispanic White,High,Business
+356,18,Non-Binary,Non-Hispanic Black,Medium,Arts
+357,28,Male,Asian,Medium,Business
+358,24,Female,Other,Medium,Science
+359,22,Female,Asian,Medium,Engineering
+360,21,Male,Hispanic,Medium,Science
+361,24,Non-Binary,Hispanic,High,Science
+362,27,Male,Hispanic,Low,Science
+363,19,Female,Asian,High,Business
+364,29,Non-Binary,Non-Hispanic White,High,Engineering
+365,18,Female,Other,High,Arts
+366,18,Male,Asian,High,Science
+367,28,Non-Binary,Non-Hispanic White,Low,Business
+368,29,Female,Non-Hispanic White,High,Arts
+369,18,Female,Asian,Medium,Science
+370,29,Female,Asian,High,Arts
+371,22,Male,Non-Hispanic White,High,Science
+372,27,Non-Binary,Non-Hispanic White,Low,Arts
+373,24,Male,Non-Hispanic White,Low,Arts
+374,19,Male,Asian,Medium,Engineering
+375,27,Male,Non-Hispanic White,High,Engineering
+376,25,Non-Binary,Hispanic,High,Science
+377,21,Male,Asian,High,Business
+378,29,Male,Hispanic,Medium,Engineering
+379,20,Male,Non-Hispanic Black,Low,Arts
+380,27,Male,Asian,Medium,Engineering
+381,28,Female,Non-Hispanic Black,High,Engineering
+382,25,Male,Non-Hispanic White,Low,Science
+383,19,Female,Non-Hispanic White,Low,Engineering
+384,28,Male,Other,Medium,Engineering
+385,28,Non-Binary,Non-Hispanic White,Low,Arts
+386,20,Female,Non-Hispanic Black,Low,Engineering
+387,29,Female,Non-Hispanic White,High,Arts
+388,20,Female,Asian,High,Engineering
+389,27,Female,Non-Hispanic White,Low,Engineering
+390,28,Non-Binary,Other,Low,Business
+391,18,Male,Non-Hispanic White,Medium,Engineering
+392,23,Female,Non-Hispanic Black,Medium,Arts
+393,19,Non-Binary,Non-Hispanic Black,Low,Arts
+394,18,Female,Non-Hispanic White,High,Science
+395,19,Male,Non-Hispanic Black,Low,Science
+396,29,Female,Non-Hispanic Black,Low,Business
+397,23,Non-Binary,Other,High,Arts
+398,21,Male,Asian,High,Arts
+399,23,Non-Binary,Other,Medium,Arts
+400,29,Male,Hispanic,Medium,Business
+401,26,Male,Other,Medium,Arts
+402,27,Male,Non-Hispanic White,Medium,Science
+403,29,Female,Asian,High,Business
+404,27,Non-Binary,Non-Hispanic White,Low,Science
+405,25,Non-Binary,Hispanic,Medium,Science
+406,18,Non-Binary,Asian,Medium,Business
+407,25,Male,Non-Hispanic Black,High,Engineering
+408,26,Female,Other,High,Engineering
+409,23,Male,Non-Hispanic White,Low,Science
+410,27,Non-Binary,Hispanic,Low,Engineering
+411,22,Female,Non-Hispanic Black,High,Arts
+412,23,Female,Other,Medium,Business
+413,23,Female,Non-Hispanic Black,Medium,Science
+414,26,Non-Binary,Other,Medium,Arts
+415,21,Female,Asian,Low,Engineering
+416,19,Female,Non-Hispanic Black,Medium,Arts
+417,28,Male,Non-Hispanic Black,Medium,Engineering
+418,28,Male,Non-Hispanic Black,High,Science
+419,26,Female,Asian,Medium,Arts
+420,19,Female,Hispanic,High,Business
+421,27,Male,Other,Medium,Science
+422,26,Male,Non-Hispanic Black,Low,Arts
+423,19,Male,Asian,Medium,Arts
+424,29,Non-Binary,Hispanic,Medium,Engineering
+425,25,Non-Binary,Other,High,Science
+426,26,Male,Asian,High,Science
+427,29,Female,Other,High,Science
+428,27,Male,Non-Hispanic Black,Medium,Science
+429,26,Non-Binary,Hispanic,Medium,Engineering
+430,27,Female,Asian,Low,Business
+431,26,Non-Binary,Hispanic,Medium,Science
+432,19,Female,Non-Hispanic Black,Low,Engineering
+433,21,Non-Binary,Hispanic,High,Business
+434,24,Female,Hispanic,High,Business
+435,29,Female,Non-Hispanic White,High,Engineering
+436,19,Female,Hispanic,Low,Science
+437,18,Female,Other,Medium,Business
+438,20,Non-Binary,Asian,High,Science
+439,29,Non-Binary,Non-Hispanic White,Medium,Science
+440,21,Female,Asian,Medium,Arts
+441,25,Female,Asian,High,Science
+442,23,Non-Binary,Non-Hispanic Black,Low,Arts
+443,28,Female,Non-Hispanic Black,Medium,Business
+444,19,Female,Non-Hispanic White,High,Engineering
+445,26,Female,Non-Hispanic Black,Medium,Arts
+446,19,Male,Non-Hispanic Black,Medium,Engineering
+447,29,Female,Non-Hispanic Black,Medium,Business
+448,22,Male,Asian,Medium,Science
+449,29,Female,Non-Hispanic White,Medium,Business
+450,21,Non-Binary,Asian,Low,Engineering
+451,24,Male,Other,Low,Business
+452,25,Male,Asian,High,Science
+453,22,Female,Other,Low,Business
+454,27,Female,Hispanic,Low,Science
+455,22,Male,Hispanic,Low,Arts
+456,19,Non-Binary,Other,Medium,Engineering
+457,25,Non-Binary,Other,Medium,Science
+458,19,Female,Asian,High,Science
+459,27,Non-Binary,Other,High,Business
+460,29,Non-Binary,Non-Hispanic White,High,Arts
+461,23,Female,Hispanic,Medium,Science
+462,25,Non-Binary,Hispanic,Low,Arts
+463,23,Female,Other,Low,Arts
+464,21,Male,Non-Hispanic Black,Medium,Business
+465,21,Female,Non-Hispanic Black,High,Science
+466,23,Male,Other,High,Business
+467,21,Male,Non-Hispanic White,High,Engineering
+468,25,Non-Binary,Non-Hispanic Black,Medium,Engineering
+469,26,Non-Binary,Other,High,Science
+470,18,Non-Binary,Non-Hispanic White,High,Arts
+471,21,Female,Non-Hispanic White,Medium,Science
+472,21,Non-Binary,Asian,Low,Science
+473,19,Male,Non-Hispanic White,Medium,Engineering
+474,23,Non-Binary,Non-Hispanic Black,Medium,Engineering
+475,20,Non-Binary,Non-Hispanic Black,Medium,Arts
+476,24,Female,Other,Medium,Arts
+477,28,Female,Other,Low,Science
+478,28,Male,Non-Hispanic White,High,Business
+479,22,Female,Hispanic,Medium,Science
+480,21,Non-Binary,Asian,Low,Arts
+481,22,Female,Hispanic,High,Business
+482,25,Male,Non-Hispanic White,High,Engineering
+483,20,Non-Binary,Non-Hispanic White,High,Arts
+484,24,Male,Hispanic,Medium,Arts
+485,23,Female,Asian,Medium,Business
+486,29,Female,Hispanic,High,Arts
+487,18,Male,Other,High,Arts
+488,24,Non-Binary,Non-Hispanic Black,High,Arts
+489,24,Female,Other,High,Arts
+490,29,Female,Non-Hispanic Black,High,Arts
+491,18,Non-Binary,Non-Hispanic White,High,Arts
+492,26,Female,Asian,Low,Arts
+493,23,Male,Hispanic,High,Arts
+494,29,Female,Asian,Medium,Engineering
+495,19,Female,Hispanic,Medium,Arts
+496,22,Non-Binary,Other,Medium,Engineering
+497,28,Male,Other,High,Engineering
+498,21,Non-Binary,Hispanic,Medium,Science
+499,24,Female,Asian,Low,Science
+500,25,Female,Hispanic,High,Engineering
+501,28,Non-Binary,Non-Hispanic White,Medium,Engineering
+502,28,Non-Binary,Other,Low,Arts
+503,18,Non-Binary,Non-Hispanic White,Low,Science
+504,22,Male,Other,Medium,Business
+505,20,Female,Other,Low,Science
+506,18,Non-Binary,Non-Hispanic Black,Medium,Engineering
+507,29,Female,Non-Hispanic White,Low,Engineering
+508,20,Male,Non-Hispanic White,High,Arts
+509,23,Male,Non-Hispanic Black,High,Arts
+510,24,Male,Asian,High,Science
+511,25,Male,Non-Hispanic White,High,Arts
+512,28,Female,Hispanic,High,Business
+513,21,Male,Non-Hispanic Black,Medium,Business
+514,20,Male,Non-Hispanic White,High,Arts
+515,22,Non-Binary,Asian,High,Business
+516,26,Male,Non-Hispanic White,High,Business
+517,23,Non-Binary,Other,High,Science
+518,26,Male,Hispanic,Low,Business
+519,23,Male,Non-Hispanic Black,High,Engineering
+520,19,Non-Binary,Other,High,Engineering
+521,22,Male,Asian,Medium,Science
+522,29,Female,Other,Low,Arts
+523,28,Female,Other,Medium,Science
+524,26,Male,Asian,High,Arts
+525,25,Female,Other,Medium,Arts
+526,24,Non-Binary,Non-Hispanic Black,Medium,Arts
+527,18,Male,Non-Hispanic White,High,Arts
+528,21,Male,Other,Low,Arts
+529,29,Non-Binary,Non-Hispanic Black,Low,Science
+530,24,Non-Binary,Non-Hispanic White,Medium,Arts
+531,28,Non-Binary,Non-Hispanic White,High,Business
+532,24,Male,Other,Medium,Business
+533,23,Non-Binary,Non-Hispanic Black,Medium,Arts
+534,25,Non-Binary,Other,Medium,Business
+535,28,Female,Asian,High,Engineering
+536,23,Female,Non-Hispanic White,High,Science
+537,27,Male,Other,Low,Science
+538,20,Female,Non-Hispanic White,High,Arts
+539,21,Female,Non-Hispanic Black,Medium,Arts
+540,20,Non-Binary,Hispanic,Medium,Engineering
+541,18,Non-Binary,Other,Low,Arts
+542,27,Female,Other,High,Business
+543,22,Female,Non-Hispanic White,Medium,Engineering
+544,18,Female,Non-Hispanic Black,Low,Business
+545,18,Male,Asian,Low,Science
+546,19,Male,Non-Hispanic Black,Medium,Business
+547,21,Male,Other,Medium,Science
+548,23,Female,Asian,High,Business
+549,25,Female,Non-Hispanic Black,Low,Science
+550,20,Male,Hispanic,Medium,Arts
+551,18,Male,Non-Hispanic White,Low,Business
+552,20,Female,Non-Hispanic Black,High,Science
+553,29,Non-Binary,Non-Hispanic Black,Medium,Business
+554,20,Male,Hispanic,High,Engineering
+555,22,Female,Other,Low,Arts
+556,28,Female,Non-Hispanic White,High,Science
+557,29,Non-Binary,Non-Hispanic Black,High,Engineering
+558,29,Female,Asian,Low,Business
+559,21,Female,Non-Hispanic Black,High,Engineering
+560,21,Male,Non-Hispanic White,Low,Business
+561,26,Male,Non-Hispanic Black,Medium,Arts
+562,24,Non-Binary,Hispanic,Low,Engineering
+563,21,Non-Binary,Non-Hispanic Black,Low,Arts
+564,20,Female,Non-Hispanic Black,Medium,Science
+565,23,Male,Asian,Low,Business
+566,20,Non-Binary,Hispanic,Medium,Business
+567,23,Non-Binary,Hispanic,Medium,Arts
+568,28,Non-Binary,Non-Hispanic Black,Low,Arts
+569,28,Female,Asian,High,Science
+570,29,Male,Non-Hispanic Black,High,Engineering
+571,26,Non-Binary,Non-Hispanic Black,Medium,Business
+572,23,Male,Non-Hispanic White,High,Business
+573,29,Non-Binary,Non-Hispanic White,High,Science
+574,21,Non-Binary,Asian,Low,Science
+575,22,Male,Other,Medium,Arts
+576,23,Male,Non-Hispanic White,Medium,Arts
+577,28,Male,Other,Low,Engineering
+578,20,Female,Hispanic,High,Science
+579,25,Non-Binary,Non-Hispanic White,Medium,Engineering
+580,21,Female,Non-Hispanic White,High,Science
+581,25,Male,Asian,Medium,Business
+582,27,Non-Binary,Other,Medium,Science
+583,27,Female,Non-Hispanic White,Medium,Science
+584,20,Non-Binary,Non-Hispanic White,Medium,Business
+585,27,Female,Asian,High,Science
+586,24,Male,Asian,High,Engineering
+587,28,Female,Other,High,Arts
+588,29,Non-Binary,Hispanic,High,Arts
+589,26,Non-Binary,Hispanic,Low,Engineering
+590,21,Non-Binary,Non-Hispanic Black,Medium,Business
+591,25,Non-Binary,Non-Hispanic White,Medium,Science
+592,20,Male,Other,Medium,Engineering
+593,24,Female,Non-Hispanic White,Low,Arts
+594,20,Male,Other,High,Arts
+595,29,Male,Other,Medium,Engineering
+596,24,Male,Other,High,Arts
+597,28,Non-Binary,Non-Hispanic White,High,Engineering
+598,27,Non-Binary,Asian,Low,Arts
+599,27,Non-Binary,Non-Hispanic White,Low,Engineering
+600,28,Female,Other,High,Science
+601,28,Non-Binary,Non-Hispanic Black,Medium,Science
+602,23,Female,Hispanic,Medium,Science
+603,19,Non-Binary,Other,Low,Science
+604,28,Non-Binary,Non-Hispanic Black,Low,Arts
+605,20,Male,Asian,Low,Business
+606,23,Male,Other,Low,Engineering
+607,21,Male,Non-Hispanic Black,Low,Business
+608,23,Female,Other,Low,Arts
+609,18,Female,Non-Hispanic White,Low,Arts
+610,27,Non-Binary,Non-Hispanic Black,Medium,Business
+611,29,Female,Non-Hispanic White,Low,Business
+612,18,Non-Binary,Non-Hispanic White,Low,Arts
+613,20,Female,Non-Hispanic Black,Medium,Arts
+614,25,Female,Hispanic,Medium,Engineering
+615,25,Female,Non-Hispanic Black,High,Science
+616,28,Male,Hispanic,Low,Science
+617,21,Female,Other,Low,Engineering
+618,23,Male,Other,Low,Business
+619,25,Male,Non-Hispanic Black,Low,Arts
+620,24,Female,Other,High,Business
+621,28,Non-Binary,Asian,Medium,Science
+622,24,Non-Binary,Non-Hispanic White,Medium,Science
+623,21,Non-Binary,Non-Hispanic White,Low,Business
+624,26,Female,Hispanic,Low,Science
+625,29,Non-Binary,Other,Low,Arts
+626,27,Male,Hispanic,High,Engineering
+627,23,Non-Binary,Non-Hispanic White,High,Business
+628,29,Female,Non-Hispanic White,Medium,Arts
+629,28,Non-Binary,Other,Low,Arts
+630,20,Male,Asian,Low,Science
+631,22,Female,Asian,Low,Arts
+632,22,Non-Binary,Other,Low,Business
+633,22,Female,Other,High,Arts
+634,25,Female,Hispanic,Medium,Engineering
+635,26,Female,Other,Medium,Arts
+636,26,Non-Binary,Asian,High,Arts
+637,23,Female,Other,Low,Engineering
+638,23,Non-Binary,Hispanic,Medium,Arts
+639,26,Male,Hispanic,Medium,Arts
+640,21,Non-Binary,Hispanic,High,Science
+641,23,Male,Hispanic,Low,Business
+642,21,Non-Binary,Non-Hispanic Black,Medium,Science
+643,28,Female,Other,Low,Business
+644,18,Non-Binary,Non-Hispanic White,Medium,Engineering
+645,24,Female,Other,High,Engineering
+646,27,Male,Non-Hispanic Black,Low,Engineering
+647,28,Non-Binary,Hispanic,High,Business
+648,29,Female,Non-Hispanic Black,Medium,Business
+649,23,Male,Asian,High,Business
+650,26,Male,Asian,High,Engineering
+651,24,Non-Binary,Other,High,Business
+652,24,Male,Other,Medium,Arts
+653,19,Female,Non-Hispanic White,Low,Science
+654,29,Male,Non-Hispanic White,High,Engineering
+655,28,Male,Asian,Low,Science
+656,26,Female,Hispanic,Medium,Arts
+657,27,Male,Non-Hispanic Black,Low,Business
+658,26,Male,Non-Hispanic White,High,Science
+659,23,Male,Non-Hispanic White,High,Arts
+660,20,Male,Hispanic,High,Arts
+661,18,Female,Hispanic,High,Science
+662,21,Male,Other,High,Engineering
+663,20,Female,Non-Hispanic Black,High,Science
+664,29,Male,Hispanic,Medium,Engineering
+665,18,Male,Non-Hispanic White,Medium,Business
+666,20,Male,Non-Hispanic White,Medium,Engineering
+667,21,Male,Asian,Low,Business
+668,25,Female,Hispanic,Low,Science
+669,26,Female,Other,Medium,Business
+670,20,Female,Non-Hispanic Black,Low,Arts
+671,23,Non-Binary,Other,Low,Business
+672,27,Male,Non-Hispanic White,High,Engineering
+673,28,Male,Other,High,Engineering
+674,22,Female,Non-Hispanic White,Low,Engineering
+675,23,Non-Binary,Non-Hispanic White,Low,Business
+676,21,Male,Non-Hispanic White,Medium,Engineering
+677,27,Female,Non-Hispanic White,Low,Engineering
+678,23,Male,Non-Hispanic White,High,Arts
+679,24,Male,Asian,Low,Business
+680,26,Female,Other,Medium,Arts
+681,27,Female,Asian,High,Engineering
+682,24,Male,Asian,High,Engineering
+683,23,Male,Hispanic,High,Engineering
+684,18,Female,Hispanic,High,Business
+685,19,Male,Hispanic,Low,Science
+686,18,Male,Non-Hispanic Black,Medium,Engineering
+687,26,Female,Hispanic,Low,Engineering
+688,27,Male,Other,Low,Engineering
+689,27,Male,Asian,High,Engineering
+690,26,Non-Binary,Other,Medium,Business
+691,24,Female,Hispanic,High,Science
+692,19,Non-Binary,Non-Hispanic Black,Low,Science
+693,23,Non-Binary,Non-Hispanic Black,Low,Science
+694,28,Non-Binary,Asian,High,Engineering
+695,21,Male,Other,Low,Engineering
+696,18,Male,Non-Hispanic White,Low,Science
+697,18,Non-Binary,Other,High,Science
+698,29,Non-Binary,Hispanic,Low,Engineering
+699,22,Non-Binary,Non-Hispanic White,Medium,Engineering
+700,29,Male,Non-Hispanic Black,High,Arts
+701,19,Non-Binary,Asian,Medium,Arts
+702,21,Non-Binary,Asian,Low,Arts
+703,18,Female,Non-Hispanic Black,Low,Science
+704,21,Female,Hispanic,High,Business
+705,28,Male,Non-Hispanic Black,Low,Engineering
+706,23,Female,Hispanic,High,Arts
+707,27,Female,Non-Hispanic White,High,Business
+708,21,Female,Non-Hispanic Black,High,Engineering
+709,18,Male,Hispanic,High,Business
+710,24,Female,Non-Hispanic White,High,Science
+711,19,Male,Non-Hispanic Black,Medium,Science
+712,26,Non-Binary,Asian,High,Science
+713,20,Female,Non-Hispanic Black,Medium,Arts
+714,25,Male,Other,Low,Engineering
+715,25,Female,Non-Hispanic Black,High,Science
+716,20,Non-Binary,Other,Low,Arts
+717,21,Male,Non-Hispanic White,High,Arts
+718,19,Male,Non-Hispanic Black,Medium,Arts
+719,21,Male,Non-Hispanic White,Medium,Arts
+720,28,Non-Binary,Non-Hispanic White,Medium,Science
+721,28,Non-Binary,Hispanic,Low,Arts
+722,28,Non-Binary,Non-Hispanic White,High,Science
+723,26,Male,Non-Hispanic White,Low,Science
+724,19,Non-Binary,Non-Hispanic Black,Medium,Arts
+725,29,Female,Non-Hispanic Black,Low,Science
+726,29,Non-Binary,Asian,Medium,Engineering
+727,20,Male,Hispanic,Medium,Engineering
+728,28,Female,Non-Hispanic White,Medium,Business
+729,28,Non-Binary,Hispanic,High,Engineering
+730,21,Female,Other,High,Science
+731,22,Female,Non-Hispanic White,Medium,Science
+732,18,Male,Hispanic,Low,Engineering
+733,24,Female,Asian,Low,Arts
+734,27,Female,Asian,High,Arts
+735,24,Male,Non-Hispanic White,Medium,Science
+736,26,Male,Other,Low,Arts
+737,21,Male,Asian,Medium,Business
+738,23,Female,Asian,Low,Business
+739,28,Female,Other,High,Engineering
+740,19,Female,Hispanic,Medium,Engineering
+741,29,Male,Asian,Medium,Arts
+742,29,Non-Binary,Non-Hispanic Black,Low,Science
+743,21,Female,Asian,Low,Engineering
+744,19,Non-Binary,Hispanic,Low,Business
+745,27,Male,Hispanic,Medium,Engineering
+746,22,Female,Non-Hispanic White,High,Engineering
+747,24,Non-Binary,Non-Hispanic Black,High,Business
+748,18,Female,Hispanic,Low,Science
+749,27,Female,Other,High,Engineering
+750,27,Female,Non-Hispanic Black,Low,Engineering
+751,24,Non-Binary,Non-Hispanic Black,High,Engineering
+752,27,Male,Other,Medium,Arts
+753,23,Female,Asian,Low,Engineering
+754,23,Male,Other,High,Business
+755,29,Male,Other,Medium,Science
+756,25,Non-Binary,Asian,High,Science
+757,25,Non-Binary,Asian,Medium,Business
+758,23,Male,Asian,Medium,Arts
+759,20,Female,Asian,High,Business
+760,22,Non-Binary,Asian,High,Science
+761,19,Female,Other,Medium,Business
+762,22,Female,Non-Hispanic White,Medium,Arts
+763,26,Female,Non-Hispanic White,Medium,Science
+764,27,Male,Hispanic,Low,Arts
+765,18,Female,Non-Hispanic White,Medium,Business
+766,27,Male,Non-Hispanic White,Low,Engineering
+767,22,Male,Other,Medium,Business
+768,29,Female,Asian,Low,Arts
+769,23,Female,Asian,Medium,Business
+770,28,Female,Other,Medium,Engineering
+771,24,Female,Non-Hispanic White,Medium,Arts
+772,26,Male,Other,High,Business
+773,23,Female,Hispanic,High,Arts
+774,22,Female,Asian,Medium,Arts
+775,29,Male,Non-Hispanic Black,Low,Science
+776,24,Non-Binary,Hispanic,Low,Science
+777,18,Non-Binary,Hispanic,Medium,Arts
+778,28,Male,Other,High,Business
+779,22,Non-Binary,Non-Hispanic White,Low,Business
+780,19,Male,Asian,High,Business
+781,21,Female,Non-Hispanic Black,Low,Engineering
+782,24,Female,Hispanic,Medium,Arts
+783,22,Non-Binary,Non-Hispanic Black,High,Arts
+784,29,Female,Non-Hispanic White,Low,Engineering
+785,23,Non-Binary,Non-Hispanic White,Medium,Arts
+786,19,Non-Binary,Non-Hispanic Black,Medium,Arts
+787,20,Female,Asian,Medium,Engineering
+788,24,Female,Non-Hispanic White,High,Science
+789,28,Non-Binary,Non-Hispanic Black,High,Arts
+790,19,Female,Hispanic,Medium,Engineering
+791,29,Male,Non-Hispanic Black,High,Business
+792,23,Female,Non-Hispanic Black,Low,Science
+793,22,Female,Other,Medium,Business
+794,27,Male,Non-Hispanic White,Medium,Arts
+795,18,Female,Asian,High,Science
+796,29,Female,Asian,Medium,Engineering
+797,28,Non-Binary,Other,Low,Arts
+798,27,Female,Asian,High,Engineering
+799,28,Female,Non-Hispanic Black,High,Science
+800,21,Male,Other,Medium,Business
+801,28,Non-Binary,Hispanic,Medium,Arts
+802,19,Non-Binary,Non-Hispanic White,Medium,Arts
+803,21,Non-Binary,Non-Hispanic White,High,Engineering
+804,18,Female,Non-Hispanic White,Medium,Science
+805,19,Non-Binary,Non-Hispanic Black,Low,Engineering
+806,25,Male,Hispanic,Medium,Science
+807,23,Non-Binary,Other,Medium,Arts
+808,19,Male,Other,High,Science
+809,29,Non-Binary,Non-Hispanic White,Medium,Arts
+810,23,Non-Binary,Hispanic,High,Science
+811,27,Male,Hispanic,Medium,Business
+812,26,Non-Binary,Hispanic,Low,Science
+813,24,Non-Binary,Asian,Low,Business
+814,26,Non-Binary,Asian,High,Science
+815,22,Female,Non-Hispanic White,High,Science
+816,24,Male,Hispanic,Medium,Engineering
+817,28,Non-Binary,Hispanic,Medium,Engineering
+818,24,Male,Other,Low,Arts
+819,29,Male,Other,Medium,Engineering
+820,29,Male,Non-Hispanic White,Low,Science
+821,20,Non-Binary,Hispanic,High,Engineering
+822,24,Non-Binary,Non-Hispanic White,Medium,Science
+823,18,Male,Other,High,Business
+824,26,Female,Other,Medium,Science
+825,27,Male,Asian,Low,Arts
+826,23,Female,Non-Hispanic White,High,Business
+827,22,Male,Non-Hispanic White,High,Arts
+828,24,Male,Hispanic,Medium,Arts
+829,22,Male,Hispanic,High,Arts
+830,27,Non-Binary,Asian,Low,Engineering
+831,22,Female,Non-Hispanic Black,High,Arts
+832,28,Female,Non-Hispanic Black,High,Business
+833,27,Male,Non-Hispanic Black,Medium,Science
+834,28,Non-Binary,Non-Hispanic White,High,Arts
+835,24,Non-Binary,Non-Hispanic White,Medium,Business
+836,27,Female,Other,Medium,Arts
+837,24,Non-Binary,Non-Hispanic White,High,Science
+838,28,Female,Non-Hispanic White,Low,Business
+839,20,Female,Non-Hispanic White,Medium,Business
+840,20,Female,Asian,High,Science
+841,27,Non-Binary,Non-Hispanic White,Medium,Business
+842,29,Female,Hispanic,Low,Science
+843,20,Female,Hispanic,Low,Business
+844,23,Male,Other,Medium,Business
+845,29,Female,Asian,Low,Science
+846,23,Female,Hispanic,High,Science
+847,20,Male,Asian,High,Business
+848,20,Male,Asian,Medium,Business
+849,25,Non-Binary,Other,Low,Science
+850,25,Female,Asian,High,Engineering
+851,24,Non-Binary,Non-Hispanic White,High,Science
+852,27,Non-Binary,Asian,High,Business
+853,21,Male,Other,Medium,Business
+854,21,Non-Binary,Other,Medium,Business
+855,20,Female,Other,High,Science
+856,22,Male,Hispanic,High,Business
+857,20,Female,Non-Hispanic White,Low,Engineering
+858,25,Female,Hispanic,Low,Arts
+859,24,Male,Non-Hispanic Black,Low,Engineering
+860,20,Female,Non-Hispanic White,Medium,Science
+861,26,Male,Asian,High,Business
+862,29,Female,Other,Medium,Science
+863,22,Male,Non-Hispanic Black,High,Arts
+864,26,Non-Binary,Non-Hispanic White,Low,Science
+865,24,Female,Hispanic,Low,Business
+866,24,Male,Other,Low,Arts
+867,23,Female,Hispanic,Low,Arts
+868,19,Female,Non-Hispanic White,High,Business
+869,26,Female,Non-Hispanic White,Low,Business
+870,23,Male,Non-Hispanic Black,High,Business
+871,25,Non-Binary,Asian,High,Science
+872,18,Non-Binary,Hispanic,Medium,Engineering
+873,22,Non-Binary,Non-Hispanic Black,Low,Science
+874,29,Male,Other,Low,Science
+875,18,Non-Binary,Asian,Medium,Engineering
+876,27,Male,Non-Hispanic Black,High,Business
+877,28,Female,Hispanic,Low,Business
+878,25,Female,Non-Hispanic White,High,Engineering
+879,25,Non-Binary,Other,Medium,Engineering
+880,18,Male,Hispanic,High,Science
+881,26,Female,Asian,Low,Arts
+882,19,Male,Asian,High,Engineering
+883,29,Male,Non-Hispanic White,High,Science
+884,26,Female,Non-Hispanic White,Low,Arts
+885,18,Male,Other,Low,Business
+886,29,Female,Other,High,Business
+887,27,Female,Non-Hispanic White,High,Science
+888,26,Female,Non-Hispanic White,Medium,Science
+889,21,Male,Asian,Low,Engineering
+890,26,Female,Non-Hispanic White,High,Business
+891,24,Male,Non-Hispanic Black,Low,Science
+892,28,Female,Hispanic,Medium,Business
+893,23,Female,Non-Hispanic White,High,Business
+894,22,Non-Binary,Other,High,Engineering
+895,28,Non-Binary,Non-Hispanic Black,High,Arts
+896,26,Non-Binary,Other,Low,Engineering
+897,19,Male,Non-Hispanic Black,Medium,Science
+898,28,Male,Non-Hispanic White,Low,Engineering
+899,29,Female,Hispanic,High,Engineering
+900,19,Female,Other,Medium,Business
+901,28,Female,Non-Hispanic Black,High,Engineering
+902,29,Female,Asian,High,Science
+903,26,Male,Non-Hispanic White,Low,Arts
+904,29,Female,Hispanic,High,Engineering
+905,20,Female,Non-Hispanic White,Medium,Engineering
+906,25,Non-Binary,Asian,High,Arts
+907,28,Female,Hispanic,High,Science
+908,26,Female,Asian,Low,Science
+909,25,Female,Non-Hispanic White,Medium,Engineering
+910,21,Male,Non-Hispanic Black,Low,Business
+911,29,Non-Binary,Non-Hispanic White,High,Engineering
+912,18,Female,Non-Hispanic White,Low,Arts
+913,21,Female,Non-Hispanic White,Low,Arts
+914,26,Non-Binary,Other,Low,Arts
+915,19,Female,Asian,Low,Engineering
+916,20,Male,Asian,High,Engineering
+917,27,Female,Asian,High,Science
+918,25,Male,Other,Medium,Business
+919,23,Male,Non-Hispanic Black,Low,Engineering
+920,25,Female,Non-Hispanic White,Low,Science
+921,24,Non-Binary,Non-Hispanic Black,Medium,Engineering
+922,22,Male,Other,Low,Science
+923,26,Non-Binary,Asian,Medium,Science
+924,21,Female,Non-Hispanic White,High,Business
+925,23,Male,Hispanic,Medium,Engineering
+926,19,Female,Hispanic,Low,Science
+927,19,Non-Binary,Non-Hispanic Black,Medium,Arts
+928,19,Female,Asian,High,Arts
+929,27,Female,Hispanic,Low,Arts
+930,24,Male,Non-Hispanic Black,High,Business
+931,19,Female,Other,High,Science
+932,29,Female,Non-Hispanic Black,Medium,Business
+933,19,Female,Non-Hispanic Black,High,Engineering
+934,26,Male,Non-Hispanic Black,Low,Engineering
+935,24,Non-Binary,Non-Hispanic White,High,Science
+936,28,Non-Binary,Non-Hispanic Black,High,Arts
+937,20,Female,Non-Hispanic Black,Medium,Science
+938,20,Male,Non-Hispanic White,High,Science
+939,24,Female,Non-Hispanic White,Medium,Science
+940,22,Non-Binary,Other,Medium,Business
+941,27,Male,Asian,Low,Engineering
+942,23,Non-Binary,Hispanic,Low,Science
+943,29,Non-Binary,Hispanic,Low,Science
+944,25,Male,Non-Hispanic Black,Low,Science
+945,26,Male,Other,Medium,Business
+946,18,Female,Non-Hispanic Black,High,Business
+947,20,Female,Hispanic,Low,Business
+948,28,Non-Binary,Non-Hispanic White,Low,Science
+949,24,Male,Asian,Low,Arts
+950,23,Male,Other,High,Arts
+951,24,Female,Non-Hispanic White,Low,Arts
+952,25,Non-Binary,Asian,High,Engineering
+953,23,Non-Binary,Other,Medium,Science
+954,20,Female,Other,Medium,Arts
+955,19,Male,Hispanic,Medium,Arts
+956,29,Female,Non-Hispanic White,High,Arts
+957,24,Female,Other,Low,Science
+958,29,Female,Other,Low,Arts
+959,29,Female,Asian,Low,Arts
+960,29,Male,Hispanic,Low,Science
+961,28,Female,Non-Hispanic Black,Low,Engineering
+962,18,Male,Hispanic,High,Business
+963,20,Female,Non-Hispanic Black,Medium,Arts
+964,29,Non-Binary,Non-Hispanic White,Low,Business
+965,28,Male,Non-Hispanic White,Medium,Engineering
+966,21,Non-Binary,Other,High,Engineering
+967,18,Female,Non-Hispanic White,High,Arts
+968,22,Female,Other,Low,Science
+969,27,Female,Hispanic,High,Engineering
+970,20,Male,Non-Hispanic White,Medium,Business
+971,19,Non-Binary,Hispanic,Low,Business
+972,20,Male,Hispanic,Low,Business
+973,25,Male,Non-Hispanic White,Medium,Business
+974,23,Female,Hispanic,Low,Engineering
+975,24,Non-Binary,Non-Hispanic White,Low,Arts
+976,29,Female,Non-Hispanic White,Medium,Arts
+977,23,Male,Non-Hispanic White,Low,Business
+978,23,Female,Non-Hispanic Black,Low,Arts
+979,29,Non-Binary,Hispanic,Medium,Business
+980,20,Female,Asian,High,Business
+981,29,Non-Binary,Non-Hispanic White,Medium,Science
+982,25,Non-Binary,Hispanic,Low,Engineering
+983,29,Female,Other,Medium,Engineering
+984,24,Male,Non-Hispanic White,Low,Business
+985,24,Female,Non-Hispanic White,Low,Engineering
+986,23,Male,Asian,Medium,Arts
+987,22,Male,Non-Hispanic Black,Low,Business
+988,27,Female,Non-Hispanic Black,High,Science
+989,25,Male,Non-Hispanic White,Low,Arts
+990,22,Male,Hispanic,Medium,Science
+991,26,Female,Other,High,Science
+992,26,Female,Other,High,Engineering
+993,18,Female,Hispanic,Low,Engineering
+994,23,Male,Non-Hispanic White,Medium,Business
+995,24,Non-Binary,Other,Low,Engineering
+996,20,Male,Non-Hispanic Black,Low,Science
+997,24,Non-Binary,Hispanic,Medium,Science
+998,28,Female,Asian,Medium,Arts
+999,28,Non-Binary,Non-Hispanic White,Low,Science
+1000,24,Female,Hispanic,High,Business
